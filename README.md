@@ -39,9 +39,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Billions Atugonza joel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/billionsjoel)
+- Twitter: [@twitterhandle](https://twitter.com/BillionsJoel)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/billionsjoel/)
 
 
 ## 🤝 Contributing
